@@ -863,3 +863,77 @@
   .project-library-intro p{font-size:11px}
 }
 
+
+/* =========================================================
+   SUBTLE TYPOGRAPHY REFINEMENT — requested final polish
+   Slightly smaller brand, slightly larger menu, and a gentle
+   readability lift for supporting/body text only.
+   ========================================================= */
+.logo{font-size:25px}
+.nav-links{font-size:15px}
+
+.opportunity{font-size:14.5px}
+.home-copy>p{font-size:16.5px}
+.btn{font-size:15.5px}
+.connect-row .label{font-size:13.5px}
+.profile-role{font-size:13.5px}
+.float-pill{font-size:12.5px}
+.about-text p{font-size:15.5px}
+.about .btn{font-size:13.5px}
+.stat-card span{font-size:14.5px}
+.project-body p{font-size:13.5px}
+.project-card .project-body > p{height:116px;min-height:116px}
+.project-card .tags span{font-size:10px}
+.card-link{font-size:12.5px}
+.more-btn a{font-size:12.5px}
+.skill-panel p{font-size:13.5px}
+.skill-tags span{font-size:11.5px}
+.timeline-card .org{font-size:14.5px}
+.timeline-card .date{font-size:11.5px}
+.timeline-card li{font-size:12.5px}
+.degree-card .school{font-size:16.5px}
+.degree-card .edate{font-size:12.5px}
+.degree-card li{font-size:13.5px}
+.cred p{font-size:11.5px}
+.cred a{font-size:10.5px}
+.contact-intro{font-size:14.5px}
+.contact-card .small{font-size:11.5px}
+.contact-card .value{font-size:14.5px}
+.online-box strong{font-size:13.5px}
+.field label{font-size:11.5px}
+.field input,.field textarea{font-size:13.5px}
+.copyright{font-size:11.5px}
+.recognition-photo-badge{font-size:10.5px}
+.recognition-photo-card figcaption span{font-size:11.5px}
+.recognition-eyebrow{font-size:11.5px}
+.recognition-story p{font-size:14px}
+.recognition-facts span{font-size:9px}
+.project-collections-label{font-size:10.5px}
+.collection-kicker{font-size:9.5px}
+.collection-copy small{font-size:10.5px}
+.library-back{font-size:11.5px}
+.library-eyebrow{font-size:10.5px}
+.project-library-intro p{font-size:13.5px}
+.library-home-link{font-size:12.5px}
+
+@media(max-width:1180px){
+  .logo{font-size:22px}
+  .nav-links{font-size:12px}
+}
+@media(max-width:980px){
+  .nav-links{font-size:12px}
+}
+@media(max-width:650px){
+  .logo{font-size:19px}
+  .nav-links{font-size:12.5px}
+  .home-copy>p{font-size:12.5px}
+  .btn{font-size:11.5px}
+  .opportunity{font-size:10.5px}
+  .profile-role{font-size:11.5px}
+  .float-pill{font-size:9.5px}
+  .stat-card span{font-size:10px}
+  .project-card .project-body > p{height:auto;min-height:auto}
+  .project-card .tags span{font-size:9px}
+  .recognition-story p{font-size:11.5px}
+  .project-library-intro p{font-size:11.5px}
+}
