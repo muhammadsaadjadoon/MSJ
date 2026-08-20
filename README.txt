@@ -1,49 +1,96 @@
-MUHAMMAD SAAD JADOON PORTFOLIO - STRICT V2 REFERENCE BUILD
+# Muhammad Saad Jadoon | Personal Portfolio
 
-This build uses the uploaded V2 Stable 100% portfolio as the canonical frontend reference.
-The visual design is preserved; only the explicitly requested text/placement changes were applied.
+Welcome to my personal portfolio website.
 
-REQUESTED UPDATES
-- Top brand: Muhammad Saad Jadoon
-- Hero name: Hi, I'm Muhammad Saad / Jadoon on next line
-- Navbar text slightly larger
-- Profile badges refined and kept around the profile card
-- Social Trend Network experience retained
-- EduNova AI retained with its project artwork
-- Full project structure with separate CSS and JS
-- Real Netlify Forms backend for contact submissions
-- Real Netlify serverless status endpoint
+This portfolio represents my work, experience, technical skills, education, achievements, and selected projects across Artificial Intelligence, Machine Learning, Generative AI, full-stack AI development, networking, and digital technology.
 
-LOCAL PREVIEW
-1. Open this folder in VS Code.
-2. Right-click index.html.
-3. Choose Open with Live Server.
+## About Me
 
-NETLIFY DEPLOYMENT
-Upload the COMPLETE folder to Netlify, not only index.html.
-Netlify Forms and Functions become active after deployment.
+I am an Artificial Intelligence student at the University of Haripur with a 4.0 CGPA, focused on building practical and scalable AI-powered solutions.
 
+My work includes Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision, Speech Intelligence, REST APIs, backend development, and modern web applications.
 
-LATEST CORRECTIONS
-- About stats now show exactly four items: 4 Internships, 11+ Projects, 2 Professional Roles, National Awardee.
-- CGPA and Technologies & Tools stat cards were removed.
-- Social Trend Network is shown separately as the current role.
-- The Lead Digital Consultant / Marketing Specialist / WordPress Developer experience is correctly assigned to be RYZEL.
-- National Awardee typography was reduced and balanced to match the reference-style statistic cards.
+Alongside AI development, I also have experience in Computer Networking, WordPress development, SEO, digital marketing, and social media operations.
 
+## Featured Projects
 
-NATIONAL RECOGNITION UPDATE
-- Added a dedicated National Recognition section using the user's actual ceremony photo.
-- Prime Minister's Youth Laptop Award.
-- Date: 17 December 2025.
-- Award received during the fourth semester.
-- Selected among four students across the University of Haripur.
-- CGPA at selection: 4.0.
-- User-provided detail: only student from his department among the four selected students.
+### Credora
+Credit Risk Assessment System using structured preprocessing, feature engineering, model comparison, ROC-AUC evaluation, Random Forest, and FastAPI.
 
+### INFLECT
+Speech Emotion Recognition system using acoustic feature extraction, PCA, calibrated RBF-SVM, and speaker-disjoint evaluation.
 
-PROFESSIONAL SOCIAL LINKS
-- Instagram removed.
-- Facebook removed.
-- Hero CONNECT: GitHub, LinkedIn, Email.
-- WhatsApp retained only as a secondary option in Contact and Footer.
+### WriteLens
+Handwriting Recognition System built with custom PyTorch CNNs, image preprocessing, augmentation, and TorchScript inference.
+
+### HeartTrack
+Heart Disease Risk Prediction system comparing Logistic Regression, SVM, Random Forest, and XGBoost with cross-validation and probability calibration.
+
+### CodeFix AI
+AI-powered code reviewer and explainer combining LLM-based analysis, Tree-sitter validation, structured findings, and technical explanations.
+
+### Lexora
+AI copywriting and tone transformation workspace using structured prompting, typed validation, reusable workflows, and CSV batch processing.
+
+### AI Chatbot
+Conversational AI workspace with FastAPI, persistent chat history, bounded context, personalization, and productivity-focused interaction modes.
+
+### EduNova AI
+Smart learning platform with teacher and student workspaces, AI-assisted quiz generation, virtual classrooms, assessments, analytics, and revision tools.
+
+## Technologies
+
+- Python
+- Scikit-Learn
+- PyTorch
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models
+- Prompt Engineering
+- FastAPI
+- REST APIs
+- React
+- JavaScript
+- Pandas
+- NumPy
+- Computer Vision
+- NLP
+- Speech Processing
+- Git & GitHub
+
+## Additional Experience
+
+I also have practical experience in:
+
+- Computer Networking
+- LAN and VLAN configuration
+- Cisco routers and switches
+- DHCP and DNS
+- Network troubleshooting
+- WordPress Development
+- SEO and Technical SEO
+- Google Ads
+- Meta Ads
+- Social Media Management
+
+## Portfolio Highlights
+
+- 4 Internships
+- 11+ Projects
+- 2 Professional Roles
+- National Academic Recognition
+- Prime Minister’s Youth Laptop Award recipient
+
+## Live Portfolio
+
+Visit the live portfolio to explore my projects, skills, professional experience, education, certifications, and achievements.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-saad-jadoon/
+- GitHub: https://github.com/muhammadsaadjadoon
+
+---
+
+Thank you for visiting my portfolio.
